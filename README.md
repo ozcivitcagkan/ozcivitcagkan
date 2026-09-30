@@ -10,7 +10,7 @@ tools, validated outputs and a human in the loop for decisions that matter.
   multi-agent assistant that drafts second-hand car listings from verified facts only.
   Deterministic workflow, per-agent tool permissions, claim-to-fact validation, safety
   review, two human approval gates, full test suite with a fake LLM client.
-- **[AI Agent Patterns](https://github.com/ozcivitcagkan/ai-agent-automation)**:
+- **[AI Agent Patterns](https://github.com/ozcivitcagkan/ai-agent-patterns)**:
   step-by-step scripts for ReAct, memory, LangGraph, multi-agent supervisors, guardrails
   and RAG evaluation.
 - **[Document Assistant](https://github.com/ozcivitcagkan/document_assistant)**:
@@ -19,3 +19,7 @@ tools, validated outputs and a human in the loop for decisions that matter.
 ## Tools
 
 Python · Anthropic API · LangGraph · Pydantic · ChromaDB · Voyage AI · SQLite · SQL · Streamlit · pytest
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/cagkanozcivit)
