@@ -6,6 +6,11 @@ tools, validated outputs and a human in the loop for decisions that matter.
 
 ## Projects
 
+- **[Fixwright](https://github.com/ozcivitcagkan/Fixwright-Enterprise-AI-Reliability-Integration-Platform)** ([live demo](https://fixwright.onrender.com/docs)):
+  incident analysis agent for IT support teams. A LangGraph agent investigates an incident
+  with read-only database tools and returns a structured analysis that is saved only after
+  a person approves it (interrupt() with a Postgres checkpointer). FastAPI with API key auth,
+  tests with a fake model in CI, deployed with Docker on Render and Neon.
 - **[AI Marketplace Listing Assistant](https://github.com/ozcivitcagkan/AI-Marketplace-Listing-Assistant)**:
   multi-agent assistant that drafts second-hand car listings from verified facts only.
   Deterministic workflow, per-agent tool permissions, claim-to-fact validation, safety
@@ -18,7 +23,7 @@ tools, validated outputs and a human in the loop for decisions that matter.
 
 ## Tools
 
-Python · Anthropic API · LangGraph · Pydantic · ChromaDB · Voyage AI · SQLite · SQL · Streamlit · pytest
+Python · Anthropic API · LangGraph · FastAPI · PostgreSQL · Pydantic · Docker · GitHub Actions · ChromaDB · Voyage AI · SQLite · SQL · Streamlit · pytest
 
 ## Contact
 
