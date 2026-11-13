@@ -6,7 +6,7 @@ tools, validated outputs and a human in the loop for decisions that matter.
 
 ## Projects
 
-- **[Fixwright](https://github.com/ozcivitcagkan/Fixwright-Enterprise-AI-Reliability-Integration-Platform)** ([live demo](https://fixwright.onrender.com)):
+- **[Fixwright](https://github.com/ozcivitcagkan/fixwright)** ([live demo](https://fixwright.onrender.com)):
   AI incident analysis for IT support teams, usable from a web app, a REST API and an MCP server.
   A LangGraph agent finds similar past incidents with pgvector (RAG), reuses only analyses
   a person approved, and returns a structured analysis that is saved only after a human
